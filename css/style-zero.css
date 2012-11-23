@@ -1315,3 +1315,7 @@ li.topic_reply {
 .main-product-image {
 	padding-bottom: 2px;
 }
+
+#main img.category {
+	display: none;	
+}
