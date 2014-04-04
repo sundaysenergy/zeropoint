@@ -820,7 +820,7 @@ li.collapsed {
 /* SUCKERFISHMENU */
 
 body.sfish #navlinks ul li.expanded a {
-	background: #777 url(../images/nav-down.png) 95% 50% no-repeat;
+	background: #E3701E url(../images/nav-down.png) 95% 50% no-repeat;
 }
 body.sfish #navlinks li ul a:link, 
 body.sfish #navlinks li ul a:visited {
